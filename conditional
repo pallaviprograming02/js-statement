@@ -1,0 +1,13 @@
+Conditional Statements
+Conditional Statements allow us to perform different actions for different conditions.
+
+Conditional statements run different code depending on true or false conditions.
+
+Conditional statements include:
+
+if
+if...else
+if...else if...else
+switch
+ternary (? :)
+When to use Co
